@@ -1,0 +1,11 @@
+baseURL = 'https://ghnm89.github.io/'
+languageCode = 'en-us'
+title = 'Archive'
+theme = 'PaperMod'
+paginate = 10
+
+[params]
+  author = "Hero"
+
+[author]
+  name = "Hero"
